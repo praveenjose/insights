@@ -1,0 +1,4 @@
+insights
+========
+
+Automating insights reports
